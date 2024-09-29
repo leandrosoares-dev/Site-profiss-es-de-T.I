@@ -14,8 +14,8 @@ body{
     
     .profissoes{
         font-family: 'Times New Roman', Times, serif;
-        margin: 50px; /*margem geral*/
-        padding-left: 30px; /*borda dentro da div, do lado esquerdo */
+        margin: 50px; 
+        padding-left: 30px; 
         padding-right: 30px;
     background-color: rgb(0, 231, 181);
     border: 10px groove rgb(80, 80, 80);
